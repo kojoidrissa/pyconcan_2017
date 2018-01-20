@@ -11,7 +11,7 @@ Inputs
 Output
 -------
 -  ``aggregate_time.json``: JSON object with monthly aggregated time data; produced by ``pyconcan_2017.ipynb``
--  ``done_pyconcan.xlsx``: aggregate spreadsheet produced by ``pyconcan-2017.ipynb``
+-  ``done_pyconcan.xlsx``: aggregate spreadsheet produced by ``pyconcan_2017.ipynb``
 
 Slides
 -------
